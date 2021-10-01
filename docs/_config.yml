@@ -1,3 +1,5 @@
 name: Rally Compliance-as-Code
 theme: jekyll-theme-cayman
 markdown: GFM
+plugins:
+  - jemoji
